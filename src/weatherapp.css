@@ -1,0 +1,11 @@
+.weatherapp{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(175, 230, 158);
+    padding: 40px;
+}
+.searchbox{
+    width: 100%;
+}
